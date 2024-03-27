@@ -17,7 +17,7 @@ This project provides a tool to convert images into ASCII art. It utilizes the G
 
 ### Running the Program:
 
-1.  Acquire Google Developer API Key and Custom Search Engine (CSE) ID:
+1.  Acquire Google Developer API Key and Custom Search Engine (CSE) ID, then use them in the code:
 
     -   To obtain a Google Developer API Key:
         -   Go to the [Google Developers Console](https://console.developers.google.com/).
